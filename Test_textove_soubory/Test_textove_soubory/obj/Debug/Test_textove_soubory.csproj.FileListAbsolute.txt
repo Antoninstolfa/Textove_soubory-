@@ -1,0 +1,10 @@
+G:\PRG\C#\Test_textove_soubory\Test_textove_soubory\bin\Debug\Test_textove_soubory.exe.config
+G:\PRG\C#\Test_textove_soubory\Test_textove_soubory\bin\Debug\Test_textove_soubory.exe
+G:\PRG\C#\Test_textove_soubory\Test_textove_soubory\bin\Debug\Test_textove_soubory.pdb
+G:\PRG\C#\Test_textove_soubory\Test_textove_soubory\obj\Debug\Test_textove_soubory.csprojAssemblyReference.cache
+G:\PRG\C#\Test_textove_soubory\Test_textove_soubory\obj\Debug\Test_textove_soubory.Form1.resources
+G:\PRG\C#\Test_textove_soubory\Test_textove_soubory\obj\Debug\Test_textove_soubory.Properties.Resources.resources
+G:\PRG\C#\Test_textove_soubory\Test_textove_soubory\obj\Debug\Test_textove_soubory.csproj.GenerateResource.cache
+G:\PRG\C#\Test_textove_soubory\Test_textove_soubory\obj\Debug\Test_textove_soubory.csproj.CoreCompileInputs.cache
+G:\PRG\C#\Test_textove_soubory\Test_textove_soubory\obj\Debug\Test_textove_soubory.exe
+G:\PRG\C#\Test_textove_soubory\Test_textove_soubory\obj\Debug\Test_textove_soubory.pdb
